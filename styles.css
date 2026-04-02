@@ -79,6 +79,8 @@ a {
 	border-radius: 10px;
 	color: white;
 	font-weight: bold;
+    border-style: solid;
+    border-color: white;
 }
 
 .image-placeholder {
